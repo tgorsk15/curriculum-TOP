@@ -1,5 +1,5 @@
 ### Introduction
-At this point you've already had a fair amount of practice using the various techniques we've shown you. But we've been throwing a _lot_ of information your way, so before we move on we're going to take a minute to slow down and work on one more great portfolio project.
+At this point you've already had a fair amount of practice using the various techniques we've shown you. But we've been throwing a _lot_ of information your way, so before we move on we're going to take a minute to slow down and work on one more great project that will give you lots of experience in our newly learned concepts of code structuring.
 
 ### The todo list
 
